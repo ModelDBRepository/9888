@@ -1,7 +1,7 @@
 Stockbridge and Moore. (1984) Dynamics of intracellular calcium and its possible
 relationship to phasic transmitter release and facilitation at the frog
 neuromuscular junction.
-J. Neurosci. 4: 803-811
+*J. Neurosci.* 4: 803-811
 
 The model semiquantitatively reproduces figures 2-6. Slight
 discrepancies are due to the radial spatial discretization process. In
@@ -19,3 +19,6 @@ The NEURON implementation of this model was prepared by Michael Hines.
 Questions about details of this implementation should be addressed to him
 at michael.hines@yale.edu.
 
+---
+
+2025-05-27 – Standardized to Markdown.
